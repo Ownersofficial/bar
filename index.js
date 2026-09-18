@@ -1,4 +1,4 @@
-import { Telegraf, Markup } from 'https://esm.sh/telegraf@4.16.3?target=deno';
+import { Telegraf, Markup } from 'telegraf';
 
 // Variabel state dalam memori Worker
 let activeBartender = { id: null, name: null };
